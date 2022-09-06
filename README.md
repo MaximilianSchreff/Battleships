@@ -1,6 +1,8 @@
 # Battleships
 This is my take on the famous game battleships. It also has a computer enemy.
 
+![Battleship](https://user-images.githubusercontent.com/111394953/188688360-3bc6390a-101b-466e-bd5b-8d7b13b1de5e.png)
+
 This has been my biggest project to date, and it took me more than 1000 lines of code to implement.
 It is my take on the popular game Battleships which was also on of the first games to be turned into a video
 game. In the project I make use of the object orientation of java. The ships, the battlefields and the
